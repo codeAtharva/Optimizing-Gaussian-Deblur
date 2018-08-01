@@ -1,8 +1,8 @@
 //OpenMP version.  Edit and submit only this file.
 /* Enter your details below
  * Name : Atharva Padhye
- * UCLA ID: 604762629
- * Email id: atharvapadhye@ucla.edu
+ * 
+ * 
  */
 
 #include <math.h>
